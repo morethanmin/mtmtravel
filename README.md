@@ -2,7 +2,8 @@
 
 MERN STACK Travel shoppingmall site
 
-![image](https://user-images.githubusercontent.com/72514247/107743929-25472780-6d55-11eb-91d0-e28e60f045fd.png)
+![image](https://user-images.githubusercontent.com/72514247/107744104-70613a80-6d55-11eb-9a4b-2ce6826aa48b.png)
+
 
 
 ## Skills
@@ -34,7 +35,7 @@ https://morethanmin-travel.herokuapp.com/
 - paypal 결제 모듈을 이용한 결제 시스템 개발 (국내 결제 모듈 업데이트 예정)
 - 여행 상품 등록, 삭제, 담기, 검색 기능 개발
 
-![image](https://user-images.githubusercontent.com/72514247/107743929-25472780-6d55-11eb-91d0-e28e60f045fd.png)
+![image](https://user-images.githubusercontent.com/72514247/107744104-70613a80-6d55-11eb-9a4b-2ce6826aa48b.png)
 
 ![image](https://user-images.githubusercontent.com/72514247/107744043-4f98e500-6d55-11eb-8c6d-29b1c46f7257.png)
 
