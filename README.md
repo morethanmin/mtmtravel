@@ -1,16 +1,41 @@
-Hello, My Friends  
-Thank you for having interest in this repository ! 
+# MTMTravel
 
-To use this application, 
+MERN STACK Travel shoppingmall site
 
-1. make dev.js file inside config folder 
-2. put mongoDB info into dev.js file 
-3. Type  " npm install " inside the root directory  ( Download Server Dependencies ) 
-4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
+![image](https://user-images.githubusercontent.com/72514247/107743929-25472780-6d55-11eb-91d0-e28e60f045fd.png)
 
-If you have problem, feel free to ask me ^^ 
 
-You can watch the tutorial for this app.
+## Skills
 
-https://www.youtube.com/watch?v=zaWtIkJgah4&t=5569s
+## MERN STACK
+
+### Front
+
+`antd` `react` `redux`
+
+### Back
+
+`NODEJS` `Express` `Mongoose (ODM)`
+
+### Server & DB
+
+`Mongo DB` `Heroku`
+
+### link
+
+https://morethanmin-travel.herokuapp.com/
+
+
+## Features
+
+- React 기반 프론트엔드 서버 개발
+- Express 프레임워크 기반 백엔드 서버 개발
+- JWT를 활용한 토큰 기반 사용자 인증 과정 적용
+- paypal 결제 모듈을 이용한 결제 시스템 개발 (국내 결제 모듈 업데이트 예정)
+- 여행 상품 등록, 삭제, 담기, 검색 기능 개발
+
+![image](https://user-images.githubusercontent.com/72514247/107743929-25472780-6d55-11eb-91d0-e28e60f045fd.png)
+
+![image](https://user-images.githubusercontent.com/72514247/107744043-4f98e500-6d55-11eb-8c6d-29b1c46f7257.png)
+
 
