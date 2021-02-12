@@ -144,7 +144,7 @@ function LandingPage() {
     return (
         <div style={{ width: '75%', margin: '3rem auto' }}>
             <div style={{ textAlign: 'center' }}>
-                <h2>  다양한 나라의 여행을 MTM Trevel에서 경험해보세요! </h2>
+                <h2>  다양한 나라의 여행상품을 MTM Trevel에서 경험해보세요! </h2>
             </div>
 
 
