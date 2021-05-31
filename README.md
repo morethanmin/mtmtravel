@@ -1,6 +1,6 @@
 # MTMTravel
 
-MERN STACK Travel shoppingmall site
+MERN STACK이용하여 만든 공부용 쇼핑물 사이트 입니다.
 
 ![image](https://user-images.githubusercontent.com/72514247/107744104-70613a80-6d55-11eb-9a4b-2ce6826aa48b.png)
 
